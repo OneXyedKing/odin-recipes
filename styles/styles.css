@@ -1,0 +1,36 @@
+p, li {
+    color: rgb(0, 0, 0);
+    font-family: 'Futura', sans-serif;
+    font-size: 25px;
+    font-weight: 200;
+}
+
+h1 {
+    color: rgb(150, 28, 6);
+    font-family: 'Futura', sans-serif;
+    font-size: 100px;
+    font-weight: 800;
+}
+
+h2, h3, h4, h5, h6 {
+    color: rgb(150, 28, 6);
+    font-family: 'Futura', sans-serif;
+    font-size: 50px;
+    font-weight: 800;
+}
+
+img {
+    height: 800px;
+    width: auto;
+}
+
+b {
+    color: rgb(150, 28, 6);
+}
+
+a {
+    color: rgb(0, 0, 0);
+    font-family: 'Futura', sans-serif;
+    font-size: 25px;
+    font-weight: 200;
+}
