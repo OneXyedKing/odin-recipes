@@ -34,3 +34,26 @@ a {
     font-size: 25px;
     font-weight: 200;
 }
+
+.main, .top, .recipe-list {
+    margin: 0 auto;
+}
+
+.main {
+    display: block;
+    padding: 5px;
+    background-color: rgb(13, 29, 43);
+    text-align: center;
+}
+
+.top {
+    background-color: blueviolet;
+    padding: 2px 5px;
+    border-color:pink;
+    text-indent: 10px;
+}
+
+.recipe-list {
+    background-color: orange;
+    padding: 5px;
+}
